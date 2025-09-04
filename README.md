@@ -22,5 +22,5 @@ This script uses pure LDAP queries — **no RSAT / ActiveDirectory module requir
 Clone or download the script:
 
 ```powershell
-git clone https://github.com/<youruser>/Get-Roastable-SPNs.git
+git clone https://github.com/mynksh/Get-Roastable-SPNs.git
 cd Get-Roastable-SPNs
