@@ -24,3 +24,4 @@ Clone or download the script:
 ```powershell
 git clone https://github.com/mynksh/Get-Roastable-SPNs.git
 cd Get-Roastable-SPNs
+powershell -ep bypass -File .\get-roastable-spns.ps1
